@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+}
+#gmail{
+    padding: 2px;
+    background-color: honeydew;
+}
+.cnback ul li{
+    padding: 4px;
+    margin: auto;
+    
+    
+}
+.cnback ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.cnback ul li a{
+    text-decoration: none;
+    font-size: 25px;
+}
+.cnback ul li a:hover{
+    color: blanchedalmond;
+}
+#home{
+    padding: 4px;
+    margin: 4px;
+    text-decoration: none;
+    font-size: 20px;
+}
+#home a :hover{
+    color: blanchedalmond;
+}
